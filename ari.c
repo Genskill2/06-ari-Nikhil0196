@@ -1,5 +1,4 @@
-#include <ctype.h>
-#include <math.h>
+
 
 string ari(string s)
 { 
